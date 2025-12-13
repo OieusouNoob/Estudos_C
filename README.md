@@ -1,6 +1,6 @@
 Olá, tudo bem? Espero que sim. 
 
-Bom, esses códigos são apenas alguns algoritmos de aprendizado meu a alguns meses atrás.
+Bom, esses códigos são apenas alguns algoritmos de aprendizado meu de alguns meses atrás.
 
 Normalmente eu faço coisas menores, e no telefone, essa foi uma das poucas, e raras, vezes em que decidi fazer algo mininamente complexo.
 
